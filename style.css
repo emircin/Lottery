@@ -1,0 +1,31 @@
+body{
+    background-image: url(gold.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+h1{
+    color: tomato;
+    text-align: center;
+    margin-top: 150px;
+}
+p{
+    color: yellow;
+    text-align: center;
+    margin-top: 50px;
+}
+main{
+    width: 200px;
+    margin: auto;
+}
+#iphone{
+    width: 200px;
+}
+#buton{
+    background-color: tomato;
+    border-radius: 5px;
+}
+footer{
+    margin: 20px auto;
+    width: 100px;
+}

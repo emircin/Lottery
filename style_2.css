@@ -1,0 +1,31 @@
+body{
+    background-image: url(gold.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+fieldset{
+    width: 25%;
+    height: 200px;
+    margin: 250px auto;
+    border: 2px solid tomato;
+}
+div{
+    width: 100%;  
+}
+input{
+    margin: 8px;
+}
+#name{
+    margin-left: 36px;
+}
+button{
+    margin-left: 30px;
+    background-color:tomato;
+    border: none;
+    padding: 5px;
+    color: white;
+}
